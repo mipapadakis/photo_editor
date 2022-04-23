@@ -4,3 +4,5 @@ Provides some basic features of a photo editor. Uses PPM and YUV custom format, 
 To run the code, create a project and paste ce325 folder inside the empty src folder.
 Also, you can use the provided PPM, YUV photos as well as the M83 folder containing photos needed by the stacking algorithm.
 You can place those folders inside the project dir folder.
+
+(M83 folder is compressed to save space)
